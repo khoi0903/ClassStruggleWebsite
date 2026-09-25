@@ -38,8 +38,9 @@ export const Navbar = () => {
         <div className="brand-icon">
           <i className="fas fa-landmark"></i>
         </div>
-        <span>
-          MÁC - LÊNIN <small style={{ fontSize: '0.7rem', color: '#f59e0b', fontWeight: 600 }}>INTERACTIVE</small>
+        <span className="brand-text">
+          MÁC - LÊNIN
+          <small className="brand-tag">INTERACTIVE</small>
         </span>
       </a>
 
