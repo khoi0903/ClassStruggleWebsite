@@ -37,11 +37,11 @@ export const HeroSection = () => {
         {/* Quick Summary Stats Cards */}
         <div className="hero-stats">
           <div className="stat-card">
-            <div className="stat-number">03</div>
+            <div className="stat-number">01</div>
             <div className="stat-label">Đóng góp lịch sử kinh điển của C.Mác (1852)</div>
           </div>
           <div className="stat-card">
-            <div className="stat-number">04</div>
+            <div className="stat-number">02</div>
             <div className="stat-label">Đặc trưng cơ bản của Giai cấp (V.I.Lênin)</div>
           </div>
           <div className="stat-card">
@@ -49,7 +49,7 @@ export const HeroSection = () => {
             <div className="stat-label">Hình thức đấu tranh của Giai cấp vô sản</div>
           </div>
           <div className="stat-card">
-            <div className="stat-number">02</div>
+            <div className="stat-number">04</div>
             <div className="stat-label">Nhiệm vụ chiến lược ở Việt Nam hiện nay</div>
           </div>
         </div>
